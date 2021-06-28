@@ -1,11 +1,11 @@
-﻿##3. Build upon the basics
+## 3. Build upon the basics
 The picture of the learned whole (as discussed in Rule 2: Learn before you memorize) does not have to be complete to the last detail. Just the opposite, the simpler the picture the better. The shorter the initial chapter of your book the better. Simple models are easier to comprehend and encompass. You can always build upon them later on.
 
 Do not neglect the basics. Memorizing seemingly obvious things is not a waste of time! Basics may also appear volatile and the cost of memorizing easy things is little. Better err on the safe side. Remember that usually you spend 50% of your time repeating just 3-5% of the learned material [[source](https://www.supermemo.com/articles/theory.htm)]! Basics are usually easy to retain and take a microscopic proportion of your time. However, each memory lapse on basics can cost you dearly!
 
 ===
 
-##原则三：构建于基础
+## 原则三：构建于基础
 
 对于学习材料的整体印象并不需要完善到细枝末节处。恰恰相反，该印象越简单越好，书籍的起始章节也是越短越好。越是简单的知识模型越是容易被理解和涵盖。日后你可以在此基础上进一步的构建。
 
