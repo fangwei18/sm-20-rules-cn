@@ -1,4 +1,4 @@
-##4. Stick to the minimum information principle
+## 4. Stick to the minimum information principle
 
 The material you learn must be formulated in as simple way as it is
 
@@ -66,7 +66,7 @@ You will also lose the ability to fluently recite the description of the Dead Se
 
 ===
 
-##原则四：遵循最小信息原则
+## 原则四：遵循最小信息原则
 
 你的学习材料须尽可能以简单的方式进行组织。
 
